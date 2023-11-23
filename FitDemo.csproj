@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>False</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Garmin.FIT.Sdk" Version="21.120.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="fit\addition\MAGENE_C406PRO_2023-04-30-08-55-24_251982_1682853976714.fit">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="fit\base\MAGENE_C406PRO_2023-04-30-06-57-29_251982_1682815652160.fit">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

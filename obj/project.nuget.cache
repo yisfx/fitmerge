@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mwyexl9ZDOH6DKCF0HwRjeF96NFffHxirGEMHYXHajwHBz8fWA2PckkKfRTbxhmZBiLmbppGShaMQWeMupuhig==",
+  "success": true,
+  "projectFilePath": "E:\\FXProject\\netDemo\\ConsoleApp1\\FitDemo\\FitDemo.csproj",
+  "expectedPackageFiles": [
+    "E:\\nugetpackage\\garmin.fit.sdk\\21.120.2\\garmin.fit.sdk.21.120.2.nupkg.sha512"
+  ],
+  "logs": []
+}
